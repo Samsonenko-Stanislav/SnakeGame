@@ -1,0 +1,2 @@
+C:\Users\Станислав\Dropbox\Мой ПК (LAPTOP-N6O4FFGK)\Documents\Процедурное программирование\Snake\Debug\Snake.exe
+C:\Users\Станислав\Dropbox\Мой ПК (LAPTOP-N6O4FFGK)\Documents\Процедурное программирование\Snake\Debug\Snake.pdb
